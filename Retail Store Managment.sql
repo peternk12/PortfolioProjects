@@ -1,8 +1,10 @@
-#Create a Database Schema named my_portfolio
+# Created a Database Schema named my_portfolio
 # Load Data Tables into the portfolio using Data Table Import Wizard
 
-#Data Overview
+# Data Overview
+    
 USE my_portfolio;
+
 SELECT * 
 FROM sales
 LIMIT 10;
